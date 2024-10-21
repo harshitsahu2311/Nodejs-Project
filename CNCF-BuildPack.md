@@ -99,5 +99,7 @@ docker run -d -p 3000:3000 node-app
 ```bash
 http://<public-ip>:3000
 ```
+---
+![](https://github.com/harshitsahu2311/Nodejs-Project/blob/main/Screenshot_2024_1021_181639.png)
 #
 Congratulations!!! you have deployed and application using Cloud Native Buildpacks.
